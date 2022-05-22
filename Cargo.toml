@@ -16,3 +16,4 @@ path = "src/server.rs"
 anyhow = "1.0.57"
 tokio = { version = "1", features = ["full"] }
 tokio-rustls = "*"
+rustls-pemfile = "0.2.1"
